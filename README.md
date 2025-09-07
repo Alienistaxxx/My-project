@@ -211,12 +211,6 @@ streamlit run app.py
 ---
 
 ## 截图
-> 将你的截图放到 `docs/images/` 目录，并替换下列占位图：
-![首页](docs/images/home.png)
-![今日计划](docs/images/plan.png)
-![实时摄入](docs/images/intake.png)
-![报告](docs/images/report.png)
-![周期调度](docs/images/scheduler.png)
 
 ---
 
