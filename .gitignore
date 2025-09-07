@@ -1,0 +1,60 @@
+# ---- Python 基础 ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.build/
+build/
+dist/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.code-workspace
+
+# 平台杂项
+.DS_Store
+Thumbs.db
+
+# ---- 测试 / 工具缓存 ----
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# ---- 项目相关（很重要）----
+# 本地数据库与日志
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/state.json
+.streamlit/cache/
+.streamlit/**/cache/
+
+# 导出/备份（如有）
+exports/
+backups/
+
+# 数据样本（如有）
+data/**/*.parquet
+data/**/*.csv
+!data/samples/README.md
+
+# 构建产物（前端/可选）
+node_modules/
